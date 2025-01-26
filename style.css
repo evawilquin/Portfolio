@@ -11,6 +11,7 @@ box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   background-color:darkgrey;
   display:flex;
   justify-content:space-between;
+  box-shadow: 0 5px 20px rgba(159,160,170,.8);
 }
 
 .nav-left, .nav-right{
